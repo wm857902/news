@@ -1,0 +1,23 @@
+{
+  "name": "wm857902-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wm857902/news.git"
+  },
+  "license": "ISC", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"fhjebru": "^1.0.0",
+	"fhjebru-one": "^1.0.0",
+  	"jokhcs": "^1.0.0",
+	"wm857902": "^1.0.0",
+  	"guzibiji": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
